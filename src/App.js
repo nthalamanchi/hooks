@@ -1,10 +1,10 @@
-import { Usestatethree } from "./components/Usestatethree";
+import { Useeffectone } from "./components/Useeffectone";
 
 function App() {
   
   return (
     <div>
-      <Usestatethree/>
+      <Useeffectone/>
     </div>
   );
 }
